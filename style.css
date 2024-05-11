@@ -1,0 +1,9 @@
+#age{
+    text-align: center;
+    color: green;
+    border: 1px solid red;
+    margin-top: 50px;
+    height: 100px;
+    width: 500px;
+    margin: auto;
+}
